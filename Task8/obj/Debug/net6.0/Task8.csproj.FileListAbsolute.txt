@@ -1,0 +1,15 @@
+C:\Repository\HWSem7\Task8\obj\Debug\net6.0\Task8.csproj.AssemblyReference.cache
+C:\Repository\HWSem7\Task8\obj\Debug\net6.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\HWSem7\Task8\obj\Debug\net6.0\Task8.AssemblyInfoInputs.cache
+C:\Repository\HWSem7\Task8\obj\Debug\net6.0\Task8.AssemblyInfo.cs
+C:\Repository\HWSem7\Task8\obj\Debug\net6.0\Task8.csproj.CoreCompileInputs.cache
+C:\Repository\HWSem7\Task8\bin\Debug\net6.0\Task8.exe
+C:\Repository\HWSem7\Task8\bin\Debug\net6.0\Task8.deps.json
+C:\Repository\HWSem7\Task8\bin\Debug\net6.0\Task8.runtimeconfig.json
+C:\Repository\HWSem7\Task8\bin\Debug\net6.0\Task8.dll
+C:\Repository\HWSem7\Task8\bin\Debug\net6.0\Task8.pdb
+C:\Repository\HWSem7\Task8\obj\Debug\net6.0\Task8.dll
+C:\Repository\HWSem7\Task8\obj\Debug\net6.0\refint\Task8.dll
+C:\Repository\HWSem7\Task8\obj\Debug\net6.0\Task8.pdb
+C:\Repository\HWSem7\Task8\obj\Debug\net6.0\Task8.genruntimeconfig.cache
+C:\Repository\HWSem7\Task8\obj\Debug\net6.0\ref\Task8.dll
