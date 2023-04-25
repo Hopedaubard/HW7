@@ -9,8 +9,8 @@ Main();
 
 void Main()
 {
-    int num1 = GiveRandNumber(); // Создаём первое случайное число
-    int num2 = GiveRandNumber(); // Создаём второе случайное число
+    int num1 = GetRandNumber(); // Создаём первое случайное число
+    int num2 = GetRandNumber(); // Создаём второе случайное число
     Console.WriteLine("1-е число: " + num1);
     Console.WriteLine("2-е число: " + num2);
     if (num1 > num2)
@@ -27,7 +27,7 @@ void Main()
     }
 }
 
-int GiveRandNumber()
+int GetRandNumber()
 {
     int rand = new Random().Next(0, 100);
     // Console.WriteLine(rand);
