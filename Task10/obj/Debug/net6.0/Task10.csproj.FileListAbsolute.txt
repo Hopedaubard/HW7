@@ -1,0 +1,15 @@
+C:\Repository\HWSem7\Task10\bin\Debug\net6.0\Task10.exe
+C:\Repository\HWSem7\Task10\bin\Debug\net6.0\Task10.deps.json
+C:\Repository\HWSem7\Task10\bin\Debug\net6.0\Task10.runtimeconfig.json
+C:\Repository\HWSem7\Task10\bin\Debug\net6.0\Task10.dll
+C:\Repository\HWSem7\Task10\bin\Debug\net6.0\Task10.pdb
+C:\Repository\HWSem7\Task10\obj\Debug\net6.0\Task10.csproj.AssemblyReference.cache
+C:\Repository\HWSem7\Task10\obj\Debug\net6.0\Task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\HWSem7\Task10\obj\Debug\net6.0\Task10.AssemblyInfoInputs.cache
+C:\Repository\HWSem7\Task10\obj\Debug\net6.0\Task10.AssemblyInfo.cs
+C:\Repository\HWSem7\Task10\obj\Debug\net6.0\Task10.csproj.CoreCompileInputs.cache
+C:\Repository\HWSem7\Task10\obj\Debug\net6.0\Task10.dll
+C:\Repository\HWSem7\Task10\obj\Debug\net6.0\refint\Task10.dll
+C:\Repository\HWSem7\Task10\obj\Debug\net6.0\Task10.pdb
+C:\Repository\HWSem7\Task10\obj\Debug\net6.0\Task10.genruntimeconfig.cache
+C:\Repository\HWSem7\Task10\obj\Debug\net6.0\ref\Task10.dll
